@@ -1,0 +1,86 @@
+#topbox{
+	height:700px;
+	background-image: url('landscape.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#box1{
+	color: white;
+	text-align: center;
+	margin: 200pt auto;
+	width: 200pt;
+}
+#box2{
+	color: white;
+	text-align: center;
+}
+#box2 hr{
+	border: 0.5px solid white;
+	width: 110pt;
+}
+#box3{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+	height: 100pt;
+}
+#box4{
+	width: 400pt;
+	margin: 50px auto;
+}
+h1{
+	font-size: 30px;
+}
+h3{
+	font-size: 18px;
+}
+h6{
+	color: white;
+}
+.button{
+	opacity:0.6;
+}
+.buttonmargin1{
+	margin-right: 10px;
+}
+.marginrow{
+	margin-top: 100px;
+}
+.coltext{
+	font-size: 10pt;
+}
+.marginrow1{
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+.cardmargin{
+	margin-top: 50px;
+}
+.textmargin{
+	margin-top: 50px;
+}
+.bgcolor{
+	background-color: rgb(123,207,191);
+	color: white;
+}
+.bgcolor1{
+	background-color: rgb(90,208,231);
+	color: white;
+}
+.bgcolor2{
+	background-color: rgb(233,100,122);
+	color: white;
+}
+.trfont{
+	font-size: 15px;
+	font-family: Arial;
+}
+.tablewidth{
+	width:400px;
+}
+.jumbobg{
+	background-color: black;
+}
+.inputmargin{
+	margin-right: 10px
+}
